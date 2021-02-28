@@ -34,9 +34,6 @@
 }
 </style>
 
-
-
-
 </head>
 <body>
 
@@ -47,6 +44,12 @@
   <div>Proximity</div>
 </div>
 
+<div class="center">
+<p>Click on the Microsoft Word logo to download the file:<p>
+  <a href="Assignment6.docx" download="assignment6.docx">
+    <img src="microsoft-word-2013-logo.svg" alt="Word" width="104" height="142">
+  </a>
+  </div>
 
 <div class="center">
 <p>A Flexible Layout must have a parent element with the <em>display</em> property set to <em>flex</em>.</p>
